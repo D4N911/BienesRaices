@@ -1,0 +1,22 @@
+{
+  "name": "projects-bienesraices",
+  "version": "1.0.0",
+  "description": "Este sitio web forma parte de un curso realizado en Udemy \"Desarrollo Web Completo con HTML5, CSS3, JS AJAX PHP y MySQL\" por Juan Pablo De La Torre Valdez.  Para su realización se emplearon PHP (Composer y otras librerias), MySQL, JavaScript, CSS3 y por supuesto HTML5.  Esta realizado dentro del paradigma de la POO y utilizando el patron de arquitectura MVC. Este sitio esta pensado como un CMS con una sección pública y una sección de administración desde la que se pueden crear, actualizar y eliminar los contenidos (CRUD).  Puede visitar este sitio en http://bienesraicesproject.epizy.com/ .",
+  "homepage": "https://github.com/gabdlr/projects-BienesRaices#readme",
+  "bugs": {
+    "url": "https://github.com/gabdlr/projects-BienesRaices/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabdlr/projects-BienesRaices.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "php -S localhost:8000"
+  },
+  "devDependencies": {}
+}
